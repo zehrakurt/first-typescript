@@ -1,0 +1,2 @@
+# first-typescript
+ This TypeScript project includes examples on functions, objects, arrays, and union types using basic JavaScript data types and structures. The project provides simple and illustrative examples for creating and enumerating the powerful type system offered by TypeScript. It shows working with functions, using objects, processing data in arrays, and gaining flexibility with combination types.
